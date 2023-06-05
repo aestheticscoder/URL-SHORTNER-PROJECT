@@ -1,5 +1,5 @@
 {
-  "name": "blurp-app",
+  "name": "URL-Shortner",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "npm": ">=8.0.0 <9.0.0",
     "node": ">=16.0.0 <18.4.2"
   },
-  "author": "Pal Bijewar",
+  "author": "Vishal Singh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
